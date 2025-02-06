@@ -18,3 +18,6 @@
 
 Защита проекта:
  с 10 июня по 23 июня, 2 недели.
+
+
+[База знаний](https://docs.google.com/spreadsheets/d/13F1NT6An2759ds7Ul05S7pCkLVtPO9n9ku0WS0_5qcQ/edit?usp=sharing)
